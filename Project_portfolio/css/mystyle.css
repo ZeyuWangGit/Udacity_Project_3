@@ -1,0 +1,53 @@
+.pic {
+    width: 60vw;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+
+.pic-main {
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #2d3c49;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-logo {
+    margin-top: 20px;
+    width: 100px;
+}
+
+.text-color {
+    color: #7d97ad;
+}
+
+h3 {
+    font-weight: 100;
+}
+
+.super-link {
+    color: black;
+}
+
+.foot-new {
+    display: inline-block;
+
+}
+
+.foot-a {
+    text-decoration: none;
+    color: #333;
+
+}
+
+.foot-li {
+    display: inline-block;
+    margin: 0 1em;
+}
